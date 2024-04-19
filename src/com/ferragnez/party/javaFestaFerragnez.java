@@ -14,7 +14,7 @@ public class javaFestaFerragnez {
 		//creare un array di invitati
 		
 		String [] invitati = {"Dua Lipa","Paris Hilton","Manuel Agnelli" , "J-Ax","Francesco Totti" , "Ilary Blasi","Bebe Vio",
-				"Luis","Pardis Zarei","Martina Maccherone","Rachel Zeilic"};
+				"Luis","Pardis Zarei","Martina Maccherone","Rachel Zeilic", "rondo"};
 
 		System.out.println(Arrays.toString(invitati));
 		
